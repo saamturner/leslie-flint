@@ -1630,7 +1630,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Everyone has the same opportunity. I know there are many people who will say, 'oh well this man has a much better background or this man has a better opportunity, because of this or that. Or this man has so much more money and so on', but all these things when analysed, all fall back to the mundane and the material. And I would go so far as to say that those who seem to have oft times the biggest obstacles, are the ones who oft times, have the biggest opportunities."
+              "text": "Everyone has the same opportunity. I know there are many people who will say, \"Oh, well this man has a much better background or this man has a better opportunity, because of this or that.\" Or, \"This man has so much more money and so on,\" but all these things when analysed, all fall back to the mundane and the material. And I would go so far as to say that those who seem to have oft times the biggest obstacles, are the ones who oft times, have the biggest opportunities."
             }
           ]
         }
@@ -1643,6 +1643,14 @@
         {
           "category": "Topic",
           "tag": "Material"
+        },
+        {
+          "tag": "Quoting",
+          "category": "Topic"
+        },
+        {
+          "tag": "Suffering",
+          "category": "Topic"
         }
       ],
       "uuid": "cc251a5b-366f-4b05-944d-e3d5fae42b0d"
