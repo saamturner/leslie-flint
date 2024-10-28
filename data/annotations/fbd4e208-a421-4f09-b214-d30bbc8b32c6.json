@@ -1046,7 +1046,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Indeed, I understand that there are still many people in your world who, though they respect and admire us with our particular work in our particular field, whether it is science or literature, they still think the other aspect of our lives, which became the main interest in our lives, our interest in this great subject, this subject which should and certainly does affect every human being, this universal subject, this universal truth - they still won't... won't accept that aspect of our interest, of our belief and our great crusade - because it was a crusade"
+              "text": "Indeed, I understand that there are still many people in your world who, though they respect and admire us with our particular work in our particular field, whether it is science or literature, they still think the other aspect of our lives, which became the main interest in our lives, our interest in this great subject, this subject which should and certainly does affect every human being, this universal subject, this universal truth... they still won't... won't accept that aspect of our interest, of our belief and our great crusade - because it was a crusade. "
             }
           ]
         }
@@ -1055,6 +1055,14 @@
         {
           "category": "Speaker",
           "tag": "Arthur Conan Doyle"
+        },
+        {
+          "tag": "Pace",
+          "category": "Voice"
+        },
+        {
+          "tag": "Truth",
+          "category": "Topic"
         }
       ],
       "uuid": "c48c4bfc-1326-423b-8753-4559f9a8f433"
