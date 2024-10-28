@@ -1459,7 +1459,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "I think back to my own life and I realise of course there were and must be difficulties. I know there is much to contend with, but I know this - that if a man or a woman is prepared, if necessary, to sacrifice themselves to truth, they will not allow any obstacle or barrier to stand in their way. They will go out and they will say unto the world, 'this is true, this is truly truth - for I have proved it, I have found it, and I know it to so be.'"
+              "text": "I think back to my own life and I realise of course there were and must be difficulties. I know there is much to contend with, but I know this - that if a man or a woman is prepared, if necessary, to sacrifice themselves to truth, they will not allow any obstacle or barrier to stand in their way. They will go out and they will say unto the world, \"This is true, this is truly truth - for I have proved it, I have found it, and I know it to so be.\""
             }
           ]
         }
@@ -1468,6 +1468,10 @@
         {
           "category": "Speaker",
           "tag": "Arthur Conan Doyle"
+        },
+        {
+          "tag": "Truth",
+          "category": "Topic"
         }
       ],
       "uuid": "ff24ae65-a939-4b3f-9896-17909212f786"
