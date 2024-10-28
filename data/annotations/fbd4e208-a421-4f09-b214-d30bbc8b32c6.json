@@ -1179,7 +1179,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "...as particularly as interesting as it might be. When something isnât particularly accepted, people's curiosity gets the better of them and they start prying and peeping and wanting to know about it and tittle-tattle about it. But you know when a thing becomes respectable, it no longer has the same interest for the vast majority of people, although of course in a sense, there is interest and this I, I do know, but what I feel is the tragedy, what I feel is a great pity, that so very few Spiritualists are concerned with spirituality"
+              "text": "...as particularly as interesting as it might be. When something isn't particularly accepted, people's curiosity gets the better of them and they start prying and peeping and wanting to know about it and tittle-tattle about it. But you know when a thing becomes respectable, it no longer has the same interest for the vast majority of people, although of course in a sense, there is interest and this I, I do know, but what I feel is the tragedy, what I feel is a great pity, that so very few Spiritualists are concerned with spirituality"
             }
           ]
         }
@@ -1188,6 +1188,10 @@
         {
           "category": "Speaker",
           "tag": "Arthur Conan Doyle"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
         }
       ],
       "uuid": "639a0a5e-2960-49a6-83aa-80460ec52f3d"
