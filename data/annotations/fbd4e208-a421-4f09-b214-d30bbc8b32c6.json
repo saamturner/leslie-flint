@@ -862,7 +862,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Well of course now, some think Iâm still a bit potty."
+              "text": "Well of course now, some think I'm still a bit potty."
             }
           ]
         }
@@ -871,6 +871,10 @@
         {
           "category": "Speaker",
           "tag": "Arthur Conan Doyle"
+        },
+        {
+          "tag": "Doubt",
+          "category": "Topic"
         }
       ],
       "uuid": "8275c332-2314-411d-8328-cdbd155cb9fd"
