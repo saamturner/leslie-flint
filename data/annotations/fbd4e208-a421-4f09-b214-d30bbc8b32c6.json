@@ -1359,7 +1359,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "You know, the vast majority of people, even even though they have some knowledge of this truth, do not or seldom allow it to become too important in their lives. There is no balance. We donât expect of course, that people in a world such as yours, which of course has changed so much since my day, and which is a much more difficult a life to live and the complexities are many and vast - but nevertheless, one would have thought that those who truly have this knowledge would have some balance in their lives where they would, sort of, have this realisation and they would put it into practice. That they would allow it to be the dynamic force behind all their thoughts and their actions."
+              "text": "You know, the vast majority of people, even even though they have some knowledge of this truth, do not or seldom allow it to become too important in their lives. There is no balance. We don't expect of course, that people in a world such as yours, which of course has changed so much since my day, and which is a much more difficult a life to live and the complexities are many and vast - but nevertheless, one would have thought that those who truly have this knowledge would have some balance in their lives where they would, sort of, have this realisation and they would put it into practice. That they would allow it to be the dynamic force behind all their thoughts and their actions."
             }
           ]
         }
@@ -1368,6 +1368,10 @@
         {
           "category": "Speaker",
           "tag": "Arthur Conan Doyle"
+        },
+        {
+          "tag": "Truth",
+          "category": "Topic"
         }
       ],
       "uuid": "52f06a9c-061b-4ee8-a482-fbca9ade2473"
