@@ -1092,7 +1092,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "And then of course, in a sense, we expected it. In a sense perhaps, you might say we didnât mind. Of course, we did, but at the same time, in this great crusade, and it is a crusade to bring truth to mankind, we must expect to be placed in the pillory of public opinion. And I know full well as I look into your world and I see today, although Spiritualism is advanced and has now become respectable, which possibly in a way is the worst thing that could happen to it - because anything that becomes respectable becomes perhaps a little bit, um, boring and perhaps it isnât.."
+              "text": "And then of course, in a sense, we expected it. In a sense perhaps, you might say we didn't mind. Of course, we did, but at the same time, in this great crusade, and it is a crusade to bring truth to mankind, we must expect to be placed in the pillory of public opinion. And I know full well as I look into your world and I see today, although Spiritualism is advanced and has now become respectable, which possibly in a way is the worst thing that could happen to it - because anything that becomes respectable becomes perhaps a little bit, um, boring and perhaps it isn't..."
             }
           ]
         }
@@ -1101,6 +1101,18 @@
         {
           "category": "Speaker",
           "tag": "Arthur Conan Doyle"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
+        },
+        {
+          "tag": "Truth",
+          "category": "Topic"
+        },
+        {
+          "tag": "Doubt",
+          "category": "Topic"
         }
       ],
       "uuid": "fff32c5d-73b8-454e-a292-8c8aa3067541"
