@@ -1301,6 +1301,10 @@
         {
           "tag": "Truth",
           "category": "Topic"
+        },
+        {
+          "tag": "Pace",
+          "category": "Voice"
         }
       ],
       "uuid": "f19d9653-b866-4e65-8b66-fb3ecf7f2a1f"
