@@ -1,9 +1,60 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "095a8c18-d7c1-40a4-a92a-37603a6e7fea",
+        "start": 120,
+        "end": 135,
+        "file": "4b4882f9-dc1b-47e1-8597-130cdd73f620"
+      },
+      "event2": {
+        "uuid": "dcd7a428-d7ea-4dc0-818b-e3f40957acca",
+        "start": 180,
+        "end": 226,
+        "file": "97fc9b03-4a28-46d5-ac96-aa5209b43beb"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2024-10-28T16:57:29.009Z",
   "created_by": "saamturner",
   "title": "NEW Leslie Flint Project",
-  "updated_at": "2024-11-04T20:33:12.030Z",
+  "updated_at": "2024-11-04T20:38:04.583Z",
   "updated_by": "saamturner",
   "autogenerate": {
     "enabled": false,
