@@ -12,7 +12,7 @@
     "language": "en",
     "slug": "leslie-flint",
     "creator": "saamturner",
-    "authors": "",
+    "authors": "Sam Turner",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
     "additional_users": [],
@@ -1115,7 +1115,7 @@
       ]
     },
     "created_at": "2024-10-28T16:57:28.986Z",
-    "updated_at": "2024-11-22T21:05:51.355Z",
+    "updated_at": "2024-11-22T21:06:31.424Z",
     "generate_pages_site": true,
     "is_private": false
   },
